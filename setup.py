@@ -1,6 +1,6 @@
 import sys
 
-VERSION = '1.0.0'
+VERSION = '2.0.0'
 
 try:
     from semantic_release import setup_hook
